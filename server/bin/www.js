@@ -5,7 +5,7 @@
  */
 
 import dotenv from "dotenv/config";
-import sequelize from "../services/sequelize";
+// import sequelize from "../services/sequelize";
 import app from "../app";
 import debugLib from "debug";
 import http from "http";
